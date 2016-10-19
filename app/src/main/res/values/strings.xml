@@ -1,3 +1,4 @@
 <resources>
+    <string name="toggle_silent_mode">Toggle Silent Mode</string>
     <string name="app_name">RingerSilent</string>
 </resources>
